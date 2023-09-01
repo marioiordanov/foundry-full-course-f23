@@ -889,7 +889,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 # Lesson 1: Blockchain Basics
 *[⭐️ (0:13:54) | Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=umepbfKp5rI&t=834s)*
 ## What is a Blockchain? What does a blockchain do? 
--  * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+-   [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
     -   [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
 -   [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
     -   [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)
