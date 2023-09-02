@@ -891,7 +891,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 ## What is a Blockchain? What does a blockchain do?
 -  ~~[Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)~~
     -   [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
-- [ ] Applied formatting - `./scripts/format.sh`
+- :white_check_mark: Applied formatting - `./scripts/format.sh`
 - [ ] [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
     -   [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)
 -   [What is a Smart Contract?](https://chain.link/education/smart-contracts)
