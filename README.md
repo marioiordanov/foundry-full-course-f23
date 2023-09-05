@@ -898,8 +898,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -  :white_check_mark:  [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
 -  :white_check_mark:  [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
 -  :white_check_mark: [Terminology](https://connect.comptia.org/content/articles/blockchain-terminology)
--   [Web3](https://en.wikipedia.org/wiki/Web3)
--   [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
+-  :white_check_mark: [Web3](https://en.wikipedia.org/wiki/Web3)
+-  :white_check_mark: [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
 ## The Purpose Of Smart Contracts
 *[⌨️ (0:24:26) | The Purpose Of Smart Contracts](https://www.youtube.com/watch?v=umepbfKp5rI&t=1463s)*
