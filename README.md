@@ -888,7 +888,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 # Lesson 1: Blockchain Basics
 *[⭐️ (0:13:54) | Lesson 1: Blockchain Basics](https://www.youtube.com/watch?v=umepbfKp5rI&t=834s)*
-## What is a Blockchain? What does a blockchain do?
+## :white_check_mark: What is a Blockchain? What does a blockchain do?
 -  :white_check_mark: [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
     -   [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
 -  :white_check_mark:   [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -901,17 +901,17 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -  :white_check_mark: [Web3](https://en.wikipedia.org/wiki/Web3)
 -  :white_check_mark: [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
-## The Purpose Of Smart Contracts
+## :white_check_mark: The Purpose Of Smart Contracts
 *[⌨️ (0:24:26) | The Purpose Of Smart Contracts](https://www.youtube.com/watch?v=umepbfKp5rI&t=1463s)*
-- 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
-- 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
-- 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
-- ⛓ [More on the evolution of agreements](https://www.youtube.com/watch?v=ufVyX7JDCgg)
-- ✍️ [What is a Smart Contract?](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
-- 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
-- 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
+- :white_check_mark: 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
+- :white_check_mark: 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
+- :white_check_mark: 🍔 [McDonalds Scandal](https://www.chicagotribune.com/sns-mcdonalds-story.html)
+- :white_check_mark: ⛓ [More on the evolution of agreements](https://www.youtube.com/watch?v=ufVyX7JDCgg)
+- :white_check_mark: ✍️ [What is a Smart Contract?](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+- :white_check_mark: 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+- :white_check_mark: 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
-## Other Blockchain Benefits
+## :white_check_mark: Other Blockchain Benefits
 *[⌨️ (0:39:53) | Other Blockchain Benefits](https://www.youtube.com/watch?v=umepbfKp5rI&t=2393s)*
 - Decentralized
 - Transparency & Flexibility
