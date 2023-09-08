@@ -923,7 +923,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 ## What have Smart Contracts done so far?
 *[⌨️ (0:44:20) | What have Smart Contracts done so far?](https://www.youtube.com/watch?v=umepbfKp5rI&t=2660s)*
 - :white_check_mark: [DeFi](https://chain.link/education/defi)
-  - [Defi Llama](https://defillama.com/)
+  - :white_check_mark: [Defi Llama](https://defillama.com/)
   - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
 - [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
