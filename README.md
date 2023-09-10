@@ -920,13 +920,13 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - Counterparty Risk Removal
 - Trust Minimized Agreements
 
-## What have Smart Contracts done so far?
+## :white_check_mark: What have Smart Contracts done so far?
 *[⌨️ (0:44:20) | What have Smart Contracts done so far?](https://www.youtube.com/watch?v=umepbfKp5rI&t=2660s)*
 - :white_check_mark: [DeFi](https://chain.link/education/defi)
   - :white_check_mark: [Defi Llama](https://defillama.com/)
-  - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
-- [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
-- [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
+  - :white_check_mark: [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
+- :white_check_mark: [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
+- :white_check_mark: [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
 ## Making Your First Transaction
 *[⌨️ (0:46:55) | Making Your First Transaction](https://www.youtube.com/watch?v=umepbfKp5rI&t=2813s)*
