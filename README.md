@@ -928,11 +928,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - :white_check_mark: [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
 - :white_check_mark: [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
-## Making Your First Transaction
+## :white_check_mark: Making Your First Transaction
 *[⌨️ (0:46:55) | Making Your First Transaction](https://www.youtube.com/watch?v=umepbfKp5rI&t=2813s)*
 -   [Metamask Download Link](https://metamask.io/)
-    -   [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
-    -   [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
+    -  :white_check_mark: [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
+    -  :white_check_mark: [What is a Secret Phrase?](https://metamask.zendesk.com/hc/en-us/articles/360060826432-What-is-a-Secret-Recovery-Phrase-and-how-to-keep-your-crypto-wallet-secure)
 -   [Etherscan](https://etherscan.io/)
 -   [Sepolia Etherscan](https://sepolia.etherscan.io/)
 -   Sepolia Faucet (Check the [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia))
