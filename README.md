@@ -939,11 +939,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
     -   NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
 -   OR, use the [Sepolia ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to Sepolia!
 
-## Gas I: Introduction to Gas
+## :white_check_mark: Gas I: Introduction to Gas
 *[⌨️ (1:06:16) | Gas I: Introduction to Gas](https://www.youtube.com/watch?v=umepbfKp5rI&t=3974s)*
--   [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
--   [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
--   [ETH Gas Station](https://ethgasstation.info/)
+-  :white_check_mark: [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
+-  :white_check_mark: [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
+-  :white_check_mark: [ETH Gas Station](https://ethgasstation.info/)
 
 ## How Do Blockchains Work?
 *[⌨️ (1:15:39) | How Do Blockchains Work?](https://www.youtube.com/watch?v=umepbfKp5rI&t=4537s)*
