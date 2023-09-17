@@ -945,11 +945,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -  :white_check_mark: [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 -  :white_check_mark: [ETH Gas Station](https://ethgasstation.info/)
 
-## How Do Blockchains Work?
+## :white_check_mark: How Do Blockchains Work?
 *[⌨️ (1:15:39) | How Do Blockchains Work?](https://www.youtube.com/watch?v=umepbfKp5rI&t=4537s)*
-- [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
-- [Blockchain Demo](https://andersbrownworth.com/blockchain/)
-- [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
+- :white_check_mark: [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
+- :white_check_mark: [Blockchain Demo](https://andersbrownworth.com/blockchain/)
+- :white_check_mark: [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
 ## Signing Transactions
 *[⌨️ (1:33:09) | Signing Transactions](https://www.youtube.com/watch?v=umepbfKp5rI&t=5589s)*
