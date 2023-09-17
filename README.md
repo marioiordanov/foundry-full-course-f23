@@ -953,14 +953,14 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 ## Signing Transactions
 *[⌨️ (1:33:09) | Signing Transactions](https://www.youtube.com/watch?v=umepbfKp5rI&t=5589s)*
--   [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
--   [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
--   [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
+-  :white_check_mark: [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
+-  :white_check_mark: [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+-  :white_check_mark: [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
 ## Gas II
 *[⌨️ (1:42:15) | Gas II](https://www.youtube.com/watch?v=umepbfKp5rI&t=6134s)*
--   [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
--   Advanced Gas
+-  :white_check_mark: [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
+-  :white_check_mark: Advanced Gas
     -   [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
     -   GWEI, WEI, and ETH
         -   [ETH Converter](https://eth-converter.com/)
