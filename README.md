@@ -968,7 +968,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 *[⌨️ (1:48:40) | Gas II Summary](https://youtu.be/umepbfKp5rI?t=6520)*
 -   [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
-## High-Level Blockchain Fundamentals
+## :white_check_mark: High-Level Blockchain Fundamentals
 *[⌨️ (1:51:36) | High-Level Blockchain Fundamentals](https://www.youtube.com/watch?v=umepbfKp5rI&t=6695s)*
 -   [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
 -   [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
