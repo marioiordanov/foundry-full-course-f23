@@ -1052,7 +1052,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   See the faucets at the top of this readme!
 -   Interacting with Deployed Contracts
 
-## The EVM & A Recap of Lesson 2
+## :white_check_mark: The EVM & A Recap of Lesson 2
 *[⌨️ (3:27:07) | The EVM & A Recap of Lesson 2](https://youtu.be/umepbfKp5rI?t=12427)*
 -   The EVM
 
