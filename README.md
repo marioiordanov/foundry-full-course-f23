@@ -978,16 +978,16 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 2: Welcome to Remix - Remix Simple Storage
+# :white_check_mark: Lesson 2: Welcome to Remix - Remix Simple Storage
 
 💻 Code: [https://github.com/cyfrin/remix-simple-storage-f23](https://github.com/cyfrin/remix-simple-storage-f23)
 
-## Introduction
+## :white_check_mark: Introduction
 *[⭐️ (2:10:42) | Lesson 2: Welcome to Remix - Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=7842s)*
 - [Remix](https://remix.ethereum.org/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 
-## Setting Up Your First Contract
+## :white_check_mark: Setting Up Your First Contract
 *[⌨️ (2:16:40) | Setting Up Your First Contract](https://youtu.be/umepbfKp5rI?t=8200)*
 -   Versioning
 -   Take notes in your code!
@@ -996,7 +996,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Compiling
 -   Contract Declaration
 
-## Basic Solidity: Types
+## :white_check_mark: Basic Solidity: Types
 *[⌨️ (2:24:09) | Basic Solidity Types](https://youtu.be/umepbfKp5rI?t=8649)*
 -   [Types & Declaring Variables](https://docs.soliditylang.org/en/v0.8.13/)
     -   `uint256`, `int256`, `bool`, `string`, `address`, `bytes32`
@@ -1005,7 +1005,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Default Initializations
 -   Comments
 
-## Basic Solidity: Functions
+## :white_check_mark: Basic Solidity: Functions
 *[⌨️ (2:31:57) | Basic Solidity Functions](https://youtu.be/umepbfKp5rI?t=9117)*
 -   Functions
 -   Deploying a Contract
@@ -1016,7 +1016,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   Scope
 -   View & Pure Functions
 
-## Basic Solidity: Arrays & Structs
+## :white_check_mark: Basic Solidity: Arrays & Structs
 *[⌨️ (2:51:29) | Basic Solidity Arrays & Structs](https://youtu.be/umepbfKp5rI?t=10289)*
 -   Structs
 -   Intro to Storage
@@ -1025,12 +1025,12 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -   `push` array function
 
 
-## Basic Solidity: Compiler Errors and Warnings
+## :white_check_mark: Basic Solidity: Compiler Errors and Warnings
 *[⌨️ (3:03:31) | Basic Solidity Errors & Warnings](https://youtu.be/umepbfKp5rI?t=11011)*
 - Yellow: Warnings are Ok
 - Red: Errors are not Ok
 
-## Memory, Storage, Calldata (Intro)
+## :white_check_mark: Memory, Storage, Calldata (Intro)
 *[⌨️ (3:08:13) | Basic Solidity Memory, Storage, & Calldata (Intro)](https://youtu.be/umepbfKp5rI?t=11293)*
 - 6 Places you can store and access data
   - calldata
@@ -1040,11 +1040,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
   - logs
   - stack
 
-## Mappings
+## :white_check_mark: Mappings
 *[⌨️ (3:14:37) | Basic Solidity Mappings](https://youtu.be/umepbfKp5rI?t=11677)*
 - [Mappings](https://solidity-by-example.org/mapping)
 
-## Deploying your First Contract
+## :white_check_mark: Deploying your First Contract
 *[⌨️ (3:17:46) | Deploying your First Contract](https://youtu.be/umepbfKp5rI?t=11866)*
 -   A testnet or mainnet
 -   Connecting Metamask
