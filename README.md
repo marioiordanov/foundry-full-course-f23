@@ -1062,25 +1062,25 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 💻 Code: [https://github.com/cyfrin/remix-storage-factory-f23](https://github.com/cyfrin/remix-storage-factory-f23)
 
-## Introduction
+## :white_check_mark: Introduction
 *[⭐️ (3:29:58) | Lesson 3 | Storage Factory](https://www.youtube.com/watch?v=umepbfKp5rI&t=12598s)*
-- [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
+- :white_check_mark: [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
 
-## Basic Solidity: Importing Contracts into other Contracts
+## :white_check_mark: Basic Solidity: Importing Contracts into other Contracts
 *[⌨️ (3:41:30) | Importing Contracts into other Contracts](https://youtu.be/umepbfKp5rI?t=13290)*
-- [Composibility](https://chain.link/techtalks/defi-composability)
-- [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
-- [Importing Code in solidity](https://solidity-by-example.org/import)
+- :white_check_mark: [Composibility](https://chain.link/techtalks/defi-composability)
+- :white_check_mark: [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
+- :white_check_mark: [Importing Code in solidity](https://solidity-by-example.org/import)
 
-## Basic Solidity: Interacting with other Contracts
+## :white_check_mark: Basic Solidity: Interacting with other Contracts
 *[⌨️ (3:52:49) | Interacting with other contracts](https://youtu.be/umepbfKp5rI?t=13969)*
 - To interact, you always need: ABI + Address
-- [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
+- :white_check_mark: [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
 
-## Basic Solidity: Inheritance & Overrides
+## :white_check_mark: Basic Solidity: Inheritance & Overrides
 *[⌨️ (4:00:44) | Inheritance & Overrides](https://youtu.be/umepbfKp5rI?t=14444)*
-- [Inheritance](https://solidity-by-example.org/inheritance) 
-- [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
+- :white_check_mark: [Inheritance](https://solidity-by-example.org/inheritance) 
+- :white_check_mark: [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
 
 ## Lesson 3 Recap
 *[⌨️ (4:07:37) | Lesson 3 Recap](https://youtu.be/umepbfKp5rI?t=14857)*
