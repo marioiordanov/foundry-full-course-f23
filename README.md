@@ -802,16 +802,16 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 *[⭐️ (4:09:08) | Lesson 4 | Fund Me](https://www.youtube.com/watch?v=umepbfKp5rI&t=14948s)*
 ## Setup
 *[⌨️ (4:12:20) | Setup](https://youtu.be/umepbfKp5rI?t=15140)*
-## Sending ETH through a function
+## :white_check_mark: Sending ETH through a function
 *[⌨️ (4:14:00) | Sending ETH through a function](https://youtu.be/umepbfKp5rI?t=15240)*
 - [Ethereum Unit Converter](https://eth-converter.com/)
   
-- [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
-- [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
-- [payable](https://solidity-by-example.org/payable)
-- [msg.value & Other global keywords](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
-- [require](https://codedamn.com/news/solidity/what-is-require-in-solidity)
-- [revert](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
+- :white_check_mark: [Fields in a Transaction](https://ethereum.org/en/developers/docs/transactions/)
+- :white_check_mark: [More on v,r,s](https://ethereum.stackexchange.com/questions/15766/what-does-v-r-s-in-eth-gettransactionbyhash-mean)
+- :white_check_mark: [payable](https://solidity-by-example.org/payable)
+- :white_check_mark: [msg.value & Other global keywords](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=cheatsheet#global-variables)
+- :white_check_mark: [require](https://codedamn.com/news/solidity/what-is-require-in-solidity)
+- :white_check_mark: [revert](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 ## Reverts
 *[⌨️ (4:18:15) | Reverts](https://youtu.be/umepbfKp5rI?t=15495)*
 ## Getting real world price data (Chainlink)
