@@ -814,7 +814,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - :white_check_mark: [revert](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 ## Reverts
 *[⌨️ (4:18:15) | Reverts](https://youtu.be/umepbfKp5rI?t=15495)*
-## Getting real world price data (Chainlink)
+## :white_check_mark: Getting real world price data (Chainlink)
 *[⌨️ (4:22:06) | Getting real world price data (Chainlink)](https://youtu.be/umepbfKp5rI?t=15726)*
 - [What is a blockchain oracle?](https://chain.link/education/blockchain-oracles)
 - [What is the oracle problem?](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
@@ -828,17 +828,17 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Request and Receive Chainlink Model](https://docs.chain.link/docs/architecture-request-model/)
 ## Quick recap I
 *[⌨️ (4:36:22) | Quick recap I](https://youtu.be/umepbfKp5rI?t=16582)*
-## Interfaces
+## :white_check_mark: Interfaces
 *[⌨️ (4:37:08) | Interfaces](https://youtu.be/umepbfKp5rI?t=16628)*
 - For reference - [ChainLink Interface's Repo](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol)
 ## AI Help III
 *[⌨️ (4:43:31) | AI Help III](https://youtu.be/umepbfKp5rI?t=17011)*
-## Importing from NPM / GitHub
+## :white_check_mark: Importing from NPM / GitHub
 *[⌨️ (4:46:03) | Importing from NPM / GitHub](https://youtu.be/umepbfKp5rI?t=17163)*
 - [Chainlink NPM Package](https://www.npmjs.com/package/@chainlink/contracts)
-## Getting Prices from Chainlink
+## :white_check_mark: Getting Prices from Chainlink
 *[⌨️ (4:48:07) | Getting Prices from Chainlink](https://youtu.be/umepbfKp5rI?t=17287)*
-## More Solidity math
+## :white_check_mark: More Solidity math
 *[⌨️ (4:52:00) | More Solidity math](https://youtu.be/umepbfKp5rI?t=17520)*
 - Multiply before you divide
 - [tuple](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=tuple#handling-tuple-types)
@@ -846,43 +846,43 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Type Casting](https://ethereum.stackexchange.com/questions/6891/type-casting-in-solidity)
 - Gas Estimation Failed
   - Someone should make an article explaining this error
-## msg.sender
+## :white_check_mark: msg.sender
 *[⌨️ (4:58:07) | msg.sender](https://youtu.be/umepbfKp5rI?t=17887)*
 - [msg.sender](https://docs.soliditylang.org/en/latest/cheatsheet.html?highlight=msg.sender)
 - named mappings
 ## Quick recap II
 *[⌨️ (4:59:53) | Quick recap II](https://youtu.be/umepbfKp5rI?t=17993)*
-## Library
+## :white_check_mark: Library
 *[⌨️ (5:00:46) | Library](https://youtu.be/umepbfKp5rI?t=18046)*
 - [Library](https://docs.soliditylang.org/en/v0.8.14/contracts.html?highlight=library#libraries)
 - [Solidity-by-example Library](https://solidity-by-example.org/library)
-## SafeMath
+## :white_check_mark: SafeMath
 *[⌨️ (5:05:45) | SafeMath](https://youtu.be/umepbfKp5rI?t=18345)*
 - [Openzeppelin Safemath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/math/SafeMath.sol)
 - [unchecked vs. checked](https://docs.soliditylang.org/en/latest/control-structures.html#checked-or-unchecked-arithmetic)
-## For Loop
+## :white_check_mark: For Loop
 *[⌨️ (5:10:48) | For Loop](https://youtu.be/umepbfKp5rI?t=18648)*
 - [For Loop](https://solidity-by-example.org/loop)
 - `/* */` is another way to make comments
 ## Resetting an array
 *[⌨️ (5:15:32) | Resetting an array](https://youtu.be/umepbfKp5rI?t=18932)*
-## Transfer, Send, and Call
+## :white_check_mark: Transfer, Send, and Call
 *[⌨️ (5:16:32) | Transfer, Send, and Call](https://youtu.be/umepbfKp5rI?t=18993)*
 - [Transfer, Send, Call](https://solidity-by-example.org/sending-ether/)
 - [this keyword](https://ethereum.stackexchange.com/questions/1781/what-is-the-this-keyword-in-solidity)
-## Constructor
+## :white_check_mark: Constructor
 *[⌨️ (5:24:23) | Constructor](https://youtu.be/umepbfKp5rI?t=19463)*
 - [Constructor](https://solidity-by-example.org/constructor)
-## Modifiers
+## :white_check_mark: Modifiers
 *[⌨️ (5:27:37) | Modifiers](https://youtu.be/umepbfKp5rI?t=19657)*
 - [Double equals](https://www.geeksforgeeks.org/solidity-operators/)
 - [Modifier](https://solidity-by-example.org/function-modifier)
-## Testnet Demo
+## :white_check_mark: Testnet Demo
 *[⌨️ (5:29:54) | Tesnet Demo](https://youtu.be/umepbfKp5rI?t=19794)*
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 ## Advanced Solidity
 *[⌨️ (5:34:01) | Advanced Solidity](https://youtu.be/umepbfKp5rI?t=20041)*
-### Immutable & Constant
+### :white_check_mark: Immutable & Constant
 *[⌨️ (5:34:53) | Immutable & Constant](https://youtu.be/umepbfKp5rI?t=20093)*
 - [Immutable](https://solidity-by-example.org/immutable)
 - [Constant](https://solidity-by-example.org/constants)
@@ -891,11 +891,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - Naming Conventions
   - [Someone make this!](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/13)
 
-### Custom Errors
+### :white_check_mark: Custom Errors
 *[⌨️ (5:42:08) | Custom Errors](https://youtu.be/umepbfKp5rI?t=20528)*
 - [Custom Errors Introduction](https://blog.soliditylang.org/2021/04/21/custom-errors/)
 
-### Receive & Fallback Functions
+### :white_check_mark: Receive & Fallback Functions
 *[⌨️ (5:44:56) | Receive & Fallback Functions](https://youtu.be/umepbfKp5rI?t=20696)*
 - [Solidity Docs Special Functions](https://docs.soliditylang.org/en/latest/contracts.html?highlight=fallback#special-functions)
 - [Fallback](https://solidity-by-example.org/fallback)
