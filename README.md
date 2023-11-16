@@ -906,7 +906,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 5: AI Prompting, Asking Questions, and Getting Help
+# :white_check_mark: Lesson 5: AI Prompting, Asking Questions, and Getting Help
 
 DO NOT SKIP THIS!!
 
