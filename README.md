@@ -929,7 +929,7 @@ DO NOT SKIP THIS!!
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-# Lesson 6: Foundry Simple Storage
+# :white_check_mark: Lesson 6: Foundry Simple Storage
 
 💻 Code: [https://github.com/Cyfrin/foundry-simple-storage-f23](https://github.com/Cyfrin/foundry-simple-storage-f23)
 
